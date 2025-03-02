@@ -115,8 +115,6 @@ namespace OLWebApi.Controllers
 
             // Leer el valor del parámetro de salida (ID generado)
             int newId = (int)newIdParam.Value;
-
-            // Opcional: recuperar la entidad insertada (si se requiere retornar sus datos)
             var comerciante = await _context.Comerciante.FindAsync(newId);
 
             return CreatedAtAction(nameof(GetComercianteById), new { id = newId }, new { success = true, data = comerciante });
@@ -134,7 +132,6 @@ namespace OLWebApi.Controllers
             if (comerciante == null)
                 return NotFound(new { success = false, message = "Comerciante no encontrado" });
 
-            // Extraer valores del DTO y asignar variables locales
             var nombre = dto.NombreRazonSocial;
             var municipio = dto.Municipio;
             var telefono = dto.Telefono;
@@ -144,7 +141,6 @@ namespace OLWebApi.Controllers
             var fechaActualizacion = DateTime.UtcNow;
             var usuario = User.Identity.Name ?? "Sistema";
 
-            // Ejecutar el procedimiento almacenado para actualizar
             await _context.Database.ExecuteSqlRawAsync(
                 "EXEC dbo.UpdateComerciante @IdComerciante, @NombreRazonSocial, @Municipio, @Telefono, @CorreoElectronico, @FechaRegistro, @Estado, @FechaActualizacion, @Usuario",
                 new SqlParameter("@IdComerciante", id),
@@ -158,7 +154,6 @@ namespace OLWebApi.Controllers
                 new SqlParameter("@Usuario", usuario)
             );
 
-            // (Opcional) Recuperar la entidad actualizada para retornarla
             comerciante = await _context.Comerciante.FindAsync(id);
 
             return Ok(new { success = true, data = comerciante });
@@ -185,14 +180,12 @@ namespace OLWebApi.Controllers
                 new SqlParameter("@Usuario", usuario)
             );
 
-            // Opcional: recuperar la entidad actualizada para retornarla en la respuesta
             var updatedComerciante = await _context.Comerciante.FindAsync(id);
 
             return Ok(new { success = true, data = updatedComerciante });
         }
 
         // 6. Eliminar Comerciante (DELETE: /api/comerciante/{id})
-        // Este endpoint solo puede ser ejecutado por usuarios con rol "Administrador"
         [HttpDelete("{id:int}")]
         [Authorize(Roles = "Administrador")]
         public async Task<IActionResult> DeleteComerciante(int id)

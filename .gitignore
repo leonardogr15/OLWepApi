@@ -36,3 +36,4 @@ TestResults/
 Thumbs.db
 
 OLWebApi/bin/Debug/
+OLWebApi.Infrastructure/obj/Debug/net8.0/
