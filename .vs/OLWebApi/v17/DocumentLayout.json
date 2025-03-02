@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|solutionrelative:olwebapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}|OLWebApi.Domain\\OLWebApi.Domain.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}|OLWebApi.Domain\\OLWebApi.Domain.csproj|solutionrelative:olwebapi.domain\\entities\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}|OLWebApi.Domain\\OLWebApi.Domain.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi.domain\\entities\\comerciante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}|OLWebApi.Domain\\OLWebApi.Domain.csproj|solutionrelative:olwebapi.domain\\entities\\comerciante.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D527B4D9-B625-4E3F-8AB4-424EE1A69574}|OLWebApi.Infrastructure\\OLWebApi.Infrastructure.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D527B4D9-B625-4E3F-8AB4-424EE1A69574}|OLWebApi.Infrastructure\\OLWebApi.Infrastructure.csproj|solutionrelative:olwebapi.infrastructure\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|solutionrelative:olwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}|OLWebApi.Domain\\OLWebApi.Domain.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi.domain\\entities\\establecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}|OLWebApi.Domain\\OLWebApi.Domain.csproj|solutionrelative:olwebapi.domain\\entities\\establecimiento.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|solutionrelative:olwebapi\\controllers\\reportecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi\\controllers\\comerciantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|solutionrelative:olwebapi\\controllers\\comerciantecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|solutionrelative:olwebapi\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}|OLWebApi\\OLWebApi.csproj|solutionrelative:olwebapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DCE6C6F-A422-4A86-9090-ED42AA3457B7}|OLWebApi.Application\\OLWebApi.Application.csproj|c:\\users\\lgr45\\documents\\proyecto personal\\olwebapi\\olwebapi.application\\dtos\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DCE6C6F-A422-4A86-9090-ED42AA3457B7}|OLWebApi.Application\\OLWebApi.Application.csproj|solutionrelative:olwebapi.application\\dtos\\dto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,16 +46,42 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "AuthController.cs",
               "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Controllers\\AuthController.cs",
               "RelativeDocumentMoniker": "OLWebApi\\Controllers\\AuthController.cs",
               "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Controllers\\AuthController.cs",
               "RelativeToolTip": "OLWebApi\\Controllers\\AuthController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCAAAAAzAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-03-02T05:27:09.284Z",
               "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Establecimiento.cs",
+              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Domain\\Entities\\Establecimiento.cs",
+              "RelativeDocumentMoniker": "OLWebApi.Domain\\Entities\\Establecimiento.cs",
+              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Domain\\Entities\\Establecimiento.cs",
+              "RelativeToolTip": "OLWebApi.Domain\\Entities\\Establecimiento.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:33:54.121Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ReporteController.cs",
+              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Controllers\\ReporteController.cs",
+              "RelativeDocumentMoniker": "OLWebApi\\Controllers\\ReporteController.cs",
+              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Controllers\\ReporteController.cs",
+              "RelativeToolTip": "OLWebApi\\Controllers\\ReporteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T19:31:03.471Z",
               "EditorCaption": ""
             },
             {
@@ -52,54 +90,67 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Program.cs",
-              "RelativeDocumentMoniker": "OLWebApi\\Program.cs",
-              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Program.cs",
-              "RelativeToolTip": "OLWebApi\\Program.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T05:27:11.651Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Infrastructure\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "OLWebApi.Infrastructure\\Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Infrastructure\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "OLWebApi.Infrastructure\\Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAvAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Infrastructure\\Data\\AppDbContext.cs*",
+              "RelativeToolTip": "OLWebApi.Infrastructure\\Data\\AppDbContext.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T05:26:03.975Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Usuario.cs",
-              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Domain\\Entities\\Usuario.cs",
-              "RelativeDocumentMoniker": "OLWebApi.Domain\\Entities\\Usuario.cs",
-              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Domain\\Entities\\Usuario.cs",
-              "RelativeToolTip": "OLWebApi.Domain\\Entities\\Usuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-02T05:19:05.834Z",
+              "WhenOpened": "2025-03-02T18:32:45.138Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\appsettings.json",
-              "RelativeDocumentMoniker": "OLWebApi\\appsettings.json",
-              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\appsettings.json",
-              "RelativeToolTip": "OLWebApi\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-03-01T22:38:49.973Z",
+              "Title": "Comerciante.cs",
+              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Domain\\Entities\\Comerciante.cs",
+              "RelativeDocumentMoniker": "OLWebApi.Domain\\Entities\\Comerciante.cs",
+              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Domain\\Entities\\Comerciante.cs*",
+              "RelativeToolTip": "OLWebApi.Domain\\Entities\\Comerciante.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:26:18.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Program.cs",
+              "RelativeDocumentMoniker": "OLWebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Program.cs",
+              "RelativeToolTip": "OLWebApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAACoAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:15:08.775Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ComercianteController.cs",
+              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Controllers\\ComercianteController.cs",
+              "RelativeDocumentMoniker": "OLWebApi\\Controllers\\ComercianteController.cs",
+              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi\\Controllers\\ComercianteController.cs",
+              "RelativeToolTip": "OLWebApi\\Controllers\\ComercianteController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAALUAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:11:43.171Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "DTO.cs",
+              "DocumentMoniker": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Application\\Dtos\\DTO.cs",
+              "RelativeDocumentMoniker": "OLWebApi.Application\\Dtos\\DTO.cs",
+              "ToolTip": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Application\\Dtos\\DTO.cs",
+              "RelativeToolTip": "OLWebApi.Application\\Dtos\\DTO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-02T17:11:02.298Z",
               "EditorCaption": ""
             }
           ]

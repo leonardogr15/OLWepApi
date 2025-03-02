@@ -16,6 +16,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\OLWebApi.Application\OLWebApi.Application.csproj" />
     <ProjectReference Include="..\OLWebApi.Domain\OLWebApi.Domain.csproj" />
     <ProjectReference Include="..\OLWebApi.Infrastructure\OLWebApi.Infrastructure.csproj" />
   </ItemGroup>

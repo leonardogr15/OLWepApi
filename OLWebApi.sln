@@ -9,6 +9,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLWebApi.Domain", "OLWebApi
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLWebApi.Infrastructure", "OLWebApi.Infrastructure\OLWebApi.Infrastructure.csproj", "{D527B4D9-B625-4E3F-8AB4-424EE1A69574}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLWebApi.Tests", "OLWebApi.Tests\OLWebApi.Tests.csproj", "{DE34F7DC-9177-4334-862F-855EA6931BA8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLWebApi.Application", "OLWebApi.Application\OLWebApi.Application.csproj", "{7DCE6C6F-A422-4A86-9090-ED42AA3457B7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +31,14 @@ Global
 		{D527B4D9-B625-4E3F-8AB4-424EE1A69574}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D527B4D9-B625-4E3F-8AB4-424EE1A69574}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D527B4D9-B625-4E3F-8AB4-424EE1A69574}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE34F7DC-9177-4334-862F-855EA6931BA8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE34F7DC-9177-4334-862F-855EA6931BA8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE34F7DC-9177-4334-862F-855EA6931BA8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE34F7DC-9177-4334-862F-855EA6931BA8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7DCE6C6F-A422-4A86-9090-ED42AA3457B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DCE6C6F-A422-4A86-9090-ED42AA3457B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DCE6C6F-A422-4A86-9090-ED42AA3457B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DCE6C6F-A422-4A86-9090-ED42AA3457B7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

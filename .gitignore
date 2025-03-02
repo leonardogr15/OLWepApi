@@ -1,0 +1,38 @@
+## Build results
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio specific files
+.vs/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Rider / JetBrains
+.idea/
+*.sln.iml
+
+## NuGet
+*.nupkg
+# NuGet Packages folder can be restored by NuGet restore, so no need to include it
+packages/
+.nuget/
+
+## Test results
+TestResults/
+*.trx
+
+## Logs
+*.log
+
+## Temporary files
+*.tmp
+*.temp
+*.cache
+
+## OS generated files
+.DS_Store
+Thumbs.db
+
+OLWebApi/bin/Debug/

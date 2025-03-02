@@ -1078,6 +1078,16 @@
           }
         }
       },
+      "OLWebApi.Application/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/OLWebApi.Application.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/OLWebApi.Application.dll": {}
+        }
+      },
       "OLWebApi.Domain/1.0.0": {
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
@@ -1092,7 +1102,7 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v8.0",
         "dependencies": {
-          "Microsoft.EntityFrameworkCore": "8.0.0",
+          "Microsoft.EntityFrameworkCore": "9.0.2",
           "Microsoft.EntityFrameworkCore.SqlServer": "8.0.0",
           "OLWebApi.Domain": "1.0.0"
         },
@@ -3033,6 +3043,11 @@
         "useSharedDesignerContext.txt"
       ]
     },
+    "OLWebApi.Application/1.0.0": {
+      "type": "project",
+      "path": "../OLWebApi.Application/OLWebApi.Application.csproj",
+      "msbuildProject": "../OLWebApi.Application/OLWebApi.Application.csproj"
+    },
     "OLWebApi.Domain/1.0.0": {
       "type": "project",
       "path": "../OLWebApi.Domain/OLWebApi.Domain.csproj",
@@ -3050,6 +3065,7 @@
       "Microsoft.EntityFrameworkCore >= 9.0.2",
       "Microsoft.EntityFrameworkCore.SqlServer >= 9.0.2",
       "Microsoft.IdentityModel.Tokens >= 8.6.0",
+      "OLWebApi.Application >= 1.0.0",
       "OLWebApi.Domain >= 1.0.0",
       "OLWebApi.Infrastructure >= 1.0.0",
       "Swashbuckle.AspNetCore >= 6.6.2",
@@ -3088,6 +3104,9 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
+            "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Application\\OLWebApi.Application.csproj": {
+              "projectPath": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Application\\OLWebApi.Application.csproj"
+            },
             "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Domain\\OLWebApi.Domain.csproj": {
               "projectPath": "C:\\Users\\LGR45\\Documents\\Proyecto personal\\OLWebApi\\OLWebApi.Domain\\OLWebApi.Domain.csproj"
             },

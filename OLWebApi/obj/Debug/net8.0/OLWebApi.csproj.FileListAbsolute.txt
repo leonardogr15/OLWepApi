@@ -94,3 +94,6 @@ C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi\bin\Debug\net8.0\OL
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi\bin\Debug\net8.0\OLWebApi.Infrastructure.dll
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi\bin\Debug\net8.0\OLWebApi.Domain.pdb
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi\bin\Debug\net8.0\OLWebApi.Infrastructure.pdb
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi\obj\Debug\net8.0\OLWebApi.sourcelink.json
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi\bin\Debug\net8.0\OLWebApi.Application.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi\bin\Debug\net8.0\OLWebApi.Application.pdb

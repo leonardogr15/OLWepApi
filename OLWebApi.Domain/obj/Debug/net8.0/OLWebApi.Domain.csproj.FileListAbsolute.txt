@@ -9,3 +9,4 @@ C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\ne
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\refint\OLWebApi.Domain.dll
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\OLWebApi.Domain.pdb
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\ref\OLWebApi.Domain.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\OLWebApi.Domain.sourcelink.json

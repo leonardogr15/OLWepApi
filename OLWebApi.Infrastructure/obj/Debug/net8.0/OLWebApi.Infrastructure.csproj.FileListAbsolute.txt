@@ -13,3 +13,4 @@ C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\refint\OLWebApi.Infrastructure.dll
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.pdb
 C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\ref\OLWebApi.Infrastructure.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.sourcelink.json
