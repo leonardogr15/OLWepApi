@@ -16,7 +16,16 @@ namespace OLWebApi.Infrastructure.Data
 
         public DbSet<Usuario> Usuario { get; set; }
         public DbSet<Comerciante> Comerciante { get; set; }
-        
+        public DbSet<Establecimiento> Establecimiento { get; set; }
+
+        protected override void OnModelCreating(ModelBuilder modelBuilder)
+        {
+            base.OnModelCreating(modelBuilder);
+            modelBuilder.Entity<Establecimiento>()
+                .HasOne(e => e.Comerciante)
+                .WithMany(c => c.Establecimientos)
+                .HasForeignKey(e => e.IdComerciante);
+        }
 
     }
 }
