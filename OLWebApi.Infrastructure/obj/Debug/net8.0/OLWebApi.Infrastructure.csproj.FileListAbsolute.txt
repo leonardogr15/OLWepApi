@@ -1,0 +1,15 @@
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.AssemblyInfo.cs
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\bin\Debug\net8.0\OLWebApi.Infrastructure.deps.json
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\bin\Debug\net8.0\OLWebApi.Infrastructure.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\bin\Debug\net8.0\OLWebApi.Infrastructure.pdb
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\bin\Debug\net8.0\OLWebApi.Domain.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\bin\Debug\net8.0\OLWebApi.Domain.pdb
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.9CFDAF29.Up2Date
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\refint\OLWebApi.Infrastructure.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\OLWebApi.Infrastructure.pdb
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Infrastructure\obj\Debug\net8.0\ref\OLWebApi.Infrastructure.dll

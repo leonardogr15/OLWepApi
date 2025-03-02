@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLWebApi", "OLWebApi\OLWebApi.csproj", "{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLWebApi.Domain", "OLWebApi.Domain\OLWebApi.Domain.csproj", "{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OLWebApi.Infrastructure", "OLWebApi.Infrastructure\OLWebApi.Infrastructure.csproj", "{D527B4D9-B625-4E3F-8AB4-424EE1A69574}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DACA502-F079-4DF6-A1DD-92E52E45CBFA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{13AE3483-A87D-4F9A-B3C3-76A0A2DC5589}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D527B4D9-B625-4E3F-8AB4-424EE1A69574}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D527B4D9-B625-4E3F-8AB4-424EE1A69574}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D527B4D9-B625-4E3F-8AB4-424EE1A69574}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D527B4D9-B625-4E3F-8AB4-424EE1A69574}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

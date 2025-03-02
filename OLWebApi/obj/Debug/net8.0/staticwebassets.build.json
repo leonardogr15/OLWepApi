@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "Jg6gVX43FNQhfppbUkNrFEyxgw+MgEOTjwTc0xGjvoY=",
+  "Source": "OLWebApi",
+  "BasePath": "_content/OLWebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

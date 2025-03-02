@@ -1,0 +1,11 @@
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\bin\Debug\net8.0\OLWebApi.Domain.deps.json
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\bin\Debug\net8.0\OLWebApi.Domain.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\bin\Debug\net8.0\OLWebApi.Domain.pdb
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\OLWebApi.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\OLWebApi.Domain.AssemblyInfoInputs.cache
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\OLWebApi.Domain.AssemblyInfo.cs
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\OLWebApi.Domain.csproj.CoreCompileInputs.cache
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\OLWebApi.Domain.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\refint\OLWebApi.Domain.dll
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\OLWebApi.Domain.pdb
+C:\Users\LGR45\Documents\Proyecto personal\OLWebApi\OLWebApi.Domain\obj\Debug\net8.0\ref\OLWebApi.Domain.dll
