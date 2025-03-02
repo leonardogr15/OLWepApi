@@ -15,8 +15,9 @@ namespace OLWebApi.Infrastructure.Data
         }
 
         public DbSet<Usuario> Usuario { get; set; }
+        public DbSet<Comerciante> Comerciante { get; set; }
+        
 
-        // Puedes agregar la configuración adicional en OnModelCreating si es necesario.
     }
 }
 

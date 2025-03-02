@@ -3,7 +3,7 @@ using Microsoft.IdentityModel.Tokens;
 using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
-using OLWebApi.Infrastructure.Data; // Asegúrate de usar el namespace correcto donde está AppDbContext
+using OLWebApi.Infrastructure.Data;
 using OLWebApi.Domain.Entities;
 
 
@@ -22,7 +22,6 @@ namespace OLWebApi.Controllers
             _context = context;
         }
 
-        // Modelo para recibir las credenciales
         public class LoginRequest
         {
             public string CorreoElectronico { get; set; }
@@ -34,7 +33,6 @@ namespace OLWebApi.Controllers
         [ProducesResponseType(401)]
         public IActionResult Login([FromBody] LoginRequest request)
         {
-            // Consulta a la base de datos para buscar el usuario
             var usuario = _context.Usuario.FirstOrDefault(u =>
                 u.CorreoElectronico == request.CorreoElectronico &&
                 u.Contraseña == request.Contraseña);
@@ -44,30 +42,9 @@ namespace OLWebApi.Controllers
                 return Unauthorized(new { message = "Credenciales inválidas" });
             }
 
-            // Genera el token JWT utilizando el rol y correo del usuario
             var token = GenerateJwtToken(usuario.Rol, usuario.CorreoElectronico);
             return Ok(new { token });
         }
-        //public IActionResult Login([FromBody] LoginRequest request)
-        //{
-        //    // TODO: Aquí debes validar las credenciales contra la base de datos.
-        //    // Por ejemplo, verificar si existe un usuario con ese correo y contraseña.
-        //    // Este ejemplo es solo demostrativo (NO usar en producción).
-        //    if (request.CorreoElectronico == "admin@empresa.com" && request.Contraseña == "adminpass")
-        //    {
-        //        var token = GenerateJwtToken("Administrador", request.CorreoElectronico);
-        //        return Ok(new { token });
-        //    }
-        //    else if (request.CorreoElectronico == "auxiliar@empresa.com" && request.Contraseña == "auxiliarpass")
-        //    {
-        //        var token = GenerateJwtToken("Auxiliar de Registro", request.CorreoElectronico);
-        //        return Ok(new { token });
-        //    }
-        //    else
-        //    {
-        //        return Unauthorized(new { message = "Credenciales inválidas" });
-        //    }
-        //}
 
         private string GenerateJwtToken(string role, string correo)
         {
